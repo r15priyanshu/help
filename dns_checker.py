@@ -59,6 +59,6 @@ try:
                 
         r.close()
 except BaseException as msg:
-    print("ERROR occurred :"msg)
+    print("ERROR occurred :",msg)
     print("********************************************DNS LOOKUP ENDED********************************************\n\n")
    
